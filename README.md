@@ -1,4 +1,4 @@
-# URL-Saver-Chrome-Extension
+# FocusLinks
 A simple Chrome Extension allowing users to save and delete links with just one click!
 
 Chrome extension I created using JavaScript, HTML/CSS, chrome.tabs api, and more.
